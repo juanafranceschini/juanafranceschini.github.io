@@ -43,7 +43,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formap/formap.github.io.git"
+    "url": "git+https://github.com/juanafranceschini/personal-website"
   },
   "browserslist": [
     "last 2 versions",
