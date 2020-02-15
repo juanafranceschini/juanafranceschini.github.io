@@ -12,7 +12,7 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="ABout" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
@@ -20,7 +20,7 @@ const AboutPage = ({ data }, location) => {
             <p>
               Hola soy Juana; diseñadora gráfica de La Plata, Argentina.
               Actualmente vivo en Barcelona, España y diseño en Bijoux
-              Indiscrets. Si querés contactarme, podés enviarme un{" "}
+              Indiscrets. Si querés contactarme, podés enviarme un email
               <a href="mailto:juanafranceschini@gmail.com?Subject=Hola!">acá</a>
               !
             </p>

@@ -1,11 +1,10 @@
 ---
-title: Invitations
+title: Invitation
 date: "2019-05-02"
-thumbnail: ./invitations_cover.jpg
+thumbnail: ./Invitation-julia-3.png
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![Birthday invitations](./invitations_cover.jpg)
-
-</div>
+![Birthday invitations](./Invitation-julia--title.png)
+![Birthday invitations](./Invitation-julia-1.png)
+![Birthday invitations](./Invitation-julia-2.png)
+![Birthday invitations](./Invitation-julia-3.png)

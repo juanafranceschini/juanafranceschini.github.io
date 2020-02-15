@@ -1,11 +1,10 @@
 ---
 title: Max Bill
-date: "2019-05-05"
-thumbnail: ./max_bill_cover.jpg
+date: "2019-05-04"
+thumbnail: ./max-bill-scale-model-2.png
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![Max Bill](./max_bill_cover.jpg)
-
-</div>
+![Max Bill](./max-bill-scale-model-title.png)
+![Max Bill](./max-bill-scale-model-1.png)
+![Max Bill](./max-bill-scale-model-2.png)
+![Max Bill](./max-bill-scale-model-3.png)

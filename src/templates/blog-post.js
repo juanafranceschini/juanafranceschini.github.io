@@ -1,25 +1,23 @@
-import React from "react"
-import { graphql } from "gatsby"
+import React from "react";
+import { graphql } from "gatsby";
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const post = this.props.data.markdownRemark
-    const siteTitle = this.props.data.site.siteMetadata.title
+    const post = this.props.data.markdownRemark;
+    const siteTitle = this.props.data.site.siteMetadata.title;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title={post.frontmatter.title}
-        />
+        <SEO title={post.frontmatter.title} />
         <article
           className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
         >
-          <header className="post-content-header">
+          {/* <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
-          </header>
+          </header> */}
 
           <div
             className="post-content-body"
@@ -34,11 +32,11 @@ class BlogPostTemplate extends React.Component {
           </footer>
         </article>
       </Layout>
-    )
+    );
   }
 }
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
@@ -65,4 +63,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

@@ -1,11 +1,12 @@
 ---
-title: Cocina Artesanal
-date: "2019-05-04"
-thumbnail: ./cocina_artesanal_cover.png
+title: AS Cocina Artesanal
+date: "2019-05-05"
+thumbnail: ./AS-cocina-artesanal-1.png
 ---
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![Cocina Artesanal](./cocina_artesanal_cover.png)
-
-</div>
+![AS Cocina Artesanal](./AS-cocina-artesanal-title.png)
+![AS Cocina Artesanal](./AS-cocina-artesanal-1.png)
+![AS Cocina Artesanal](./AS-cocina-artesanal-2.png)
+![AS Cocina Artesanal](./AS-cocina-artesanal-3.png)
+![AS Cocina Artesanal](./AS-cocina-artesanal-4.png)
+![AS Cocina Artesanal](./AS-cocina-artesanal-5.png)
