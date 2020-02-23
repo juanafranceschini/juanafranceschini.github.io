@@ -1,5 +1,6 @@
 ---
 title: La Fantasy
+description: Branding
 date: "2019-05-03"
 thumbnail: ./la-fantasy-3.png
 ---

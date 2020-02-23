@@ -1,5 +1,6 @@
 ---
 title: Slow Sex
+description: Packaging / Identity
 date: "2019-05-10"
 thumbnail: ./slow-sex-1.png
 ---

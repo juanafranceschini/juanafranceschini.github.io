@@ -1,5 +1,6 @@
 ---
 title: Max Bill
+description: Scale Model
 date: "2019-05-04"
 thumbnail: ./max-bill-scale-model-2.png
 ---

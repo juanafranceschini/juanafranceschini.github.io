@@ -17,7 +17,7 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Juana Franceschini - Projects"
+        title="Projects"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
       <div className="post-feed">
@@ -54,6 +54,7 @@ const indexQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            description
             thumbnail {
               childImageSharp {
                 fluid(maxWidth: 1360) {

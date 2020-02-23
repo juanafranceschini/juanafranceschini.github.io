@@ -5,17 +5,21 @@
 
 :root {
   /* Colours */
-  --color-primary: #f8f8f8;
+  --color-primary: #131313;
   --color-base: #131313;
   --color-border: #ddd;
   --color-bg: #f8f8f8;
+
+  --color-card-description: #666;
 
   /* Fonts */
   --font-sans-serif: "Muli", sans-serif;
   --font-serif: Georgia, Times, serif;
   --font-mono: Menlo, Courier, monospace;
   --font-light: 100;
+  --font-semilight: 300;
   --font-normal: 400;
+  --font-semibold: 600;
   --font-bold: 700;
   --font-heavy: 800;
 

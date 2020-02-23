@@ -1,5 +1,6 @@
 ---
-title: Horoscope
+title: Horøscope
+description: Packaging / Identity
 date: "2019-05-09"
 thumbnail: ./horoscope-1.png
 ---

@@ -1,5 +1,6 @@
 ---
 title: Invitation
+description: Print
 date: "2019-05-02"
 thumbnail: ./Invitation-julia-3.png
 ---

@@ -13,7 +13,8 @@ class BlogPostTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title={post.frontmatter.title} />
         <article
-          className={`post-content ${post.frontmatter.thumbnail || `no-image`}`}
+          className={`post-content ${post.frontmatter.thumbnail ||
+            `no-image`} top-padding-disabled`}
         >
           {/* <header className="post-content-header">
             <h1 className="post-content-title">{post.frontmatter.title}</h1>
