@@ -18,7 +18,8 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <div className="about-description">
             <p>
-              Hola soy Juana; disañadora gráfica de La Plata, Argentina.
+              Hola soy Juana; diseñadora gráfica de La Plata, Argentina.
+              Actualmente vivo en Barcelona.
               <br />
               <br />
               Soy una profesional proactiva, y de actitud positiva. Pongo mucho
