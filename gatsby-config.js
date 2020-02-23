@@ -38,8 +38,7 @@ module.exports = {
               showCaptions: true,
               quality: 90,
               wrapperStyle: `margin: 4vw 0;`,
-              backgroundColor: "transparent",
-              disableBgImageOnAlpha: true
+              backgroundColor: "transparent"
             }
           },
           {
