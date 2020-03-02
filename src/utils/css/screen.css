@@ -41,7 +41,10 @@ body {
 /* ---------------------------------------------------------- */
 
 .site-wrapper {
-  padding: 3vw;
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+  padding-left: 6vw;
+  padding-right: 6vw;
   min-height: 100vh;
 }
 @media (max-width: 850px) {
@@ -383,7 +386,10 @@ body {
 .post-content {
   max-width: 1560px;
   margin: 0 auto;
-  padding: 6vw 0;
+  padding-top: 6vw;
+  padding-bottom: 6vw;
+  padding-left: 9vw;
+  padding-right: 9vw;
 }
 
 .post-content .top-padding-disabled {
@@ -417,6 +423,10 @@ body {
   line-height: 1.65em;
 }
 @media (max-width: 500px) {
+  .post-content {
+    padding: 0;
+  }
+
   .post-content-body {
     font-size: 1.7rem;
   }
