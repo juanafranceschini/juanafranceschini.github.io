@@ -1,7 +1,7 @@
 ---
 title: Singular
 description: Packaging
-date: "2019-05-03"
+date: "2019-05-07"
 thumbnail: ./Singular-guest-experiences-5.jpg
 ---
 
