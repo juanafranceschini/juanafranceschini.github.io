@@ -29,19 +29,18 @@ const AboutPage = ({ data }, location) => {
               dinámicos y me adapto a los cambios.
               <br />
               <br />
-              Si querés contactarme, podés encontrarme en{" "}
+              Si querés conocer más sobre mi experiencia, podés descargarte mi{" "}
               <a
-                href="https://www.behance.net/juanafranceschini"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="https://github.com/juanafranceschini/juanafranceschini.github.io/raw/code/content/assets/CV_juanafranceschini_ES.pdf"
+                download
               >
-                Behance
+                CV
               </a>{" "}
-              o enviarme un email{" "}
+              o enviarme un{" "}
               <a href="mailto:juanafranceschini@gmail.com?Subject=Hola!">
-                aquí
+                email
               </a>
-              .
+              !
             </p>
           </div>
         </div>
