@@ -1,7 +1,7 @@
 ---
 title: Horøscope
 description: Packaging / Identity
-date: "2019-05-09"
+date: "2019-05-10"
 thumbnail: ./horoscope-1.jpg
 ---
 
