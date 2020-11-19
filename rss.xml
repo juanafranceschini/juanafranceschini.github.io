@@ -1,4 +1,255 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Juana Franceschini]]></title><description><![CDATA[Graphic Designer]]></description><link>https://juanafranceschini.github.io/personal-website</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 10 May 2020 16:01:16 GMT</lastBuildDate><item><title><![CDATA[Horøscope]]></title><link>https://juanafranceschini.github.io/personal-website/horoscope/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/horoscope/</guid><pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Juana Franceschini]]></title><description><![CDATA[Graphic Designer]]></description><link>https://juanafranceschini.github.io/personal-website</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 19 Nov 2020 19:32:14 GMT</lastBuildDate><item><title><![CDATA[Gisele]]></title><link>https://juanafranceschini.github.io/personal-website/gisele/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/gisele/</guid><pubDate>Sat, 11 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 20.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAAsSAAALEgHS3X78AAAAU0lEQVQY052PSQqAMBAE8/9/BrJddBJmubQGEYwERQ9FDzRdME5FMEOYj1t15NpNcE+ynjVnUIyopYBSGrrPQm4Ni/dYQwB18c4v4X1gZtCTl5c3DjQ3ZVHsX+0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a5e9dfd00a9d2174277d8921a4f9ca8e/bb80d/Gisele1.webp 390w,
+/static/a5e9dfd00a9d2174277d8921a4f9ca8e/8fabf/Gisele1.webp 780w,
+/static/a5e9dfd00a9d2174277d8921a4f9ca8e/9579c/Gisele1.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a5e9dfd00a9d2174277d8921a4f9ca8e/b3911/Gisele1.png 390w,
+/static/a5e9dfd00a9d2174277d8921a4f9ca8e/f4d8b/Gisele1.png 780w,
+/static/a5e9dfd00a9d2174277d8921a4f9ca8e/2e9ed/Gisele1.png 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/a5e9dfd00a9d2174277d8921a4f9ca8e/2e9ed/Gisele1.png&quot;
+          alt=&quot;Title&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a5e9dfd00a9d2174277d8921a4f9ca8e/2e9ed/Gisele1.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.53333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAADEklEQVQozy2Te0+bZRjG+68fwQ/jB1iUaQxOoZQ2xfUwS7MB9gAth4ErMpgiw2UuFKOw4pgodAj0QM/lUDt6PuC6yYgEEzOK/xlNft4te5Mr7/08yfvLdd33/SoK4TjFSIJSNEk5tkMp8ZRnMS+H8TClyC4vc0XOXtWxm5xoWtRcbdWhb++mW+/EqOqRsx79Rya0byvRvqNC0QA2VBJoObbHcXCU07k3+Ct4iVI8JcCCAM+wm4cx6Zw4HXfpt0zhGPgKu2WSa61XMbyvpeuyGu27mgtgMSKK7lCOhjn58S2O3G/yR8QhrhvAPOf1vxl1zWOxTpPyrlMJ+MlvbFDw+dj1PGTZasOmt2PQWFDkQ7Fm5GZscZhfXyTtvUclKfEjO02HdQGOfOZGpx8hvbZG0POYhbtuPF/P45c6vbTE2NAs3ebPUeS2o83IZenhYWKP7HaS2E8/UJW6KPdH2Qvg4M0HAhymuLVB5pdN9le98t6gGgxysptgfOw+WmXvBbCh1GaAvc0gsdXHJNY8VJMpCuK+ATw7O8c5fJ9OjYMx6xhfjkwyNTTB7YFbuPoczLpmsElfOy53vQaKk9VHywT8AVKpDJnEfnNIF8A8dQH2O++hN40zPuFuyjUxx+SdbxnsG8VqsPGJ8SbaTulhNhhpAuNi/SCV4r9//uW09oJsMEo+FOf3jADr5/RaZ9AZRzkslKhVDqmVK5y+PKL6NC09fcSnN8bpMrhQpANRfpWPt7b8ZA4yNJ4/j0+ohEKUQhFeCLAR2dzzBR3qfpafeEnuy3o9q/FcwA0d154z4JxFqRmWKa89ZPe7abzfPyCyvkol6ic9P015ZYGcL/AaWOea+TbtHVY8P68QScbEaZFSNkcxk6Mqri32Ga4oHSiW+jpYtBuZ69ExpfmQBUs3Yfc3HATCpGVItfQBr+RP+dhwi0stJpSqXlpajVxpM9OmvCG6jlpjk7Od9z6QHvoWPYRXvKInJLyyEpEkGVnyjAwr7dvmt3SmGfl63x2U6kGJNYhKM0S71O1qZ1NtqgE6tUOoOvv5H0SQyENbL028AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/aeb6589acb578e9c871269f6303d0790/bb80d/Gisele7.webp 390w,
+/static/aeb6589acb578e9c871269f6303d0790/8fabf/Gisele7.webp 780w,
+/static/aeb6589acb578e9c871269f6303d0790/9579c/Gisele7.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/aeb6589acb578e9c871269f6303d0790/b3911/Gisele7.png 390w,
+/static/aeb6589acb578e9c871269f6303d0790/f4d8b/Gisele7.png 780w,
+/static/aeb6589acb578e9c871269f6303d0790/2e9ed/Gisele7.png 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/aeb6589acb578e9c871269f6303d0790/2e9ed/Gisele7.png&quot;
+          alt=&quot;Mug and Card&quot;
+          title=&quot;&quot;
+          src=&quot;/static/aeb6589acb578e9c871269f6303d0790/2e9ed/Gisele7.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 87.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAACYElEQVQ4y32TyY7TYAzH+xY8BieehRsH3oIL4hU4cUDiAAgOqGK5IDRsElBBR0JI0yXpMtN0T9JmbbO2/LHdJJNMgUqWP6fOL/bf/mpxFIEtCkPxSZoijuMizs9pkkB+v/cIKcZuJ+GOnhe5ZLUyLPR9rPt9+IYhoI3rwbVspHRemRYePnqFH80zAf3sq7j/po6poWNfghbAhB568zm0kxMYrZYAbd2EPp5RGSm+Nn7h+o1buHP3gQDvPX+Ma7dv4vX3bxIHQXAAMqyocLPB6vwc/molH/AdF87aQkJwl84v6u/RavW5byjaCE8+vINpWSJHzqm0zN6jtgOumCC+78Fz3YO2cYT9LqaXM02jGIgTkaOiYRkWBnTOvlROkpg7yHIkl4zbzHOjLK9S4S5NpDL2eSU5NNhuEVD1URZfWlzZkkJDtul0Ccd2sZgbsC1H4B5pN1KH0NoK1pOZaBt4nhhvBftylzUufU9THA4nePrsLT59PkX95Uc0T1tIaSeN6QJqowntrCNVRmEAezSCO5vBmUzE8zALYJQNwHU8WFRVoV8+GNuB8qWBMQHz/xhQlqPScrGH9DJPrDKIzGzDxIZaj+PqRkRXBng0lCQDHnnSrQy7amVosTZbasOxbfG8e7532MGDbpeV8HPO2dBA2G9L7RcacjDWNCjdLgZ0l/u9nhjH+nIpN4FzGMKxSXfd0PXC80ePgMPBAKqiCKSnqui02+h2OhWg6zgCWC4WAmNbmaZUfTRlTpzSGmi0EqOLC0zGYzlb67X8n7fMLTLEpjvMFpZvS7nCf4n9t/P/cv8AmvEOFiRHoj0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4a1ac8418e9b96dbcc74baab9eed3ab6/bb80d/Gisele3.webp 390w,
+/static/4a1ac8418e9b96dbcc74baab9eed3ab6/8fabf/Gisele3.webp 780w,
+/static/4a1ac8418e9b96dbcc74baab9eed3ab6/9579c/Gisele3.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4a1ac8418e9b96dbcc74baab9eed3ab6/b3911/Gisele3.png 390w,
+/static/4a1ac8418e9b96dbcc74baab9eed3ab6/f4d8b/Gisele3.png 780w,
+/static/4a1ac8418e9b96dbcc74baab9eed3ab6/2e9ed/Gisele3.png 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/4a1ac8418e9b96dbcc74baab9eed3ab6/2e9ed/Gisele3.png&quot;
+          alt=&quot;Brand Guidelines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/4a1ac8418e9b96dbcc74baab9eed3ab6/2e9ed/Gisele3.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1499px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.24749833222148%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAADKklEQVQ4y22S22/jRBTG808jIUBIsPuCxANiuzxQmjZQkRtO6DbNtdtskqZpLm7aGMe3+BY7dWI7aZuyrYoQH2dG4g1LR2dmPPrN951zEheld+idHKNfOcGwVoHYqGH8voGb5ntI7Q+Qz9tQe10Yg0tYVyLmf0gIdA2RY2PtzbHxKSiv5y5lF4nu8REHMhgDTVpNTLsdaP0ezKsRXOkGC1XBypwhJAiLyHU4MLItnmPX5sD72wUDvsOgWsZ56RgdUntRKWNI4HG7Bal3gemwD1UcQREZfIKYIAy+skwOj5ky3+MqmdoEg9XzObx9/QqpnbcQMhkUslkebC2kM8j/mkZJKOCTr77Ez7+k8LRakhofT9EKH5cB7hiM7D4Et0iM6jUIB0mUfniDaDrFfbzGNoqxpfxAmcVdGOLvx49IHf+O199+g3uyXCkWsbuzgwKJcXUVW7LLFY7qVRQIWE7uIrRmkG9k6LIGZaLAmOoUBl9Hi1vM5CmO8nmYZL3TbGEi3qBSb6DXaeMpXOKO1XBYq3KF1aLAi+1oOpZzD+vbAJ7pwFRnmCkGQp+AikLWf4N+PcawN0QUrDG5mkCj/SNZZ3VMsO4K+0lUCnmEtokVdUwaS9jbE/D1qx/x6WdvKL6n9S4+/+I7pH46gE2d7zbO4JoeKe1ifNHDn6yWC5+awoAH+2g1ynh+iPG4CeFZDlTZgGU4cG0fDoW/WGEkTlDI5aDTOF232vjn5QXZTAmd0w+8QazjCXEwQJFsDM/P8Hwf4Wo0wnIxx/99f708o1atwNB1eFQe9kXBEgo18+Fug00cI9Fut5FOp5E/3Me416ZRyUKkodZkiV+8Hl9Do8F2aeYG/UsIggDNMCBeDtBsnqFITVWptvF6Dd8ny6enp6jVakgm9yiSSKVSZCONHM1hjuyxxw4PD5GlfYbmst/vw7ZtdDvnqDYaOCqf8Icty4Jpmkh0Oh2MyOZ0qmA2m8HzPARBgJBmLyYL/8Vms8F2u+Xn8/mc33McBz5lix5ga3aeqNfraLVaYOAB1VOSJKiqyuHsVaaGZYNs6lQ7TdP4f4VsyrLM9+wfu8/yv7xZvVK8IF+JAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d343769dbd18624c860e19d4985d1e76/bb80d/Gisele4.webp 390w,
+/static/d343769dbd18624c860e19d4985d1e76/8fabf/Gisele4.webp 780w,
+/static/d343769dbd18624c860e19d4985d1e76/7661a/Gisele4.webp 1499w&quot;
+          sizes=&quot;(max-width: 1499px) 100vw, 1499px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d343769dbd18624c860e19d4985d1e76/b3911/Gisele4.png 390w,
+/static/d343769dbd18624c860e19d4985d1e76/f4d8b/Gisele4.png 780w,
+/static/d343769dbd18624c860e19d4985d1e76/8bce7/Gisele4.png 1499w&quot;
+          sizes=&quot;(max-width: 1499px) 100vw, 1499px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/d343769dbd18624c860e19d4985d1e76/8bce7/Gisele4.png&quot;
+          alt=&quot;Website per device&quot;
+          title=&quot;&quot;
+          src=&quot;/static/d343769dbd18624c860e19d4985d1e76/8bce7/Gisele4.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1499px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.571714476317545%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAADMklEQVQoz12T+0+TVxjH3//G3dgcF0F0S7awZZoZ2BZUZrn0RoXhYGATschonejmqJvDoHOb2xRRwYSLGCcoZVqg0MJb+r69vbRlKMmgwLYfRfCz0/rLspM8OefkJJ+c7/f5PlK+Rc+OKgM7DhrYXllOnrmMXGMpeQYdL3z0PhXNjTx7+pRHiTkWYhEexaMspEtL3+e1EIvzURYTESKz00jZ5lJe1Zew1aQj56CeXEsF2UYd2YYDvLi3kLJjR/4DjKYhz0FqGvY4odF78xbfn/8FRRbAwsYGLvT0cKWvlyvdN3ijxsx71k/ZY61ly74iDMeb2Vxf5/F8jHhEYW11hbWVZZYW4/z916o4L2G2fE5GZjHeCQ9S39AwyXCMf2ILDP0+SpaQXNvu5PivP5Kp/xi9APIMlJkxPK4B1pIrJJOrBNzDKL5x1sXb3VsD9N3oJhZSkNyeSRLjkyyHNK7euZ2WXtRkpemn87xbV02Zo4nUUnxuZI+L/q6fGeq6yG/9VzlZX4p7oJtL/dc42v4FgYCQXNv2JVEBdN93saexni3l+yhoOIT5pIMs4aWx1Q4bG2iqj1jYz+WONqwlu3Haj3DKshvb4QosXzvIrSxmyjuO9LrxALuEZ2/VVXHq0kVGHowS9MssJxIU26zoHMdANCU86xXQGe7dv4e9ppKmzw7R6nTw7fXrTHpGGHt4m3hURXqntppCaz1vC+DU+Bh3hu/ScOYrPrAd5jXhoUn8dOPJE6KKn3hYZS4wRed3rZxpOcrD0RH+XEoSHOrF13WBRNCPZLLbaT/XRaPzLAX11WSKpmSIyGwTEcoQ8o0nWtgUPwx5x+jsOE1fz2V8rkFcgzeZC8rEtDDTg9fwdJ4lpspIW/X7qTtxmmbnObIqS8mvMrLzExM7q428oitOx4bNTWT3KG22On7o+IaI34cWChASe1SRCckTaMokf8yFkDLL91NQY+FNAcgxiQkRwU6FO09MzUslH6IXHqZyGA7MoE48QJv2EJyeIih708BURcSbps6KnAoPt5WXkCWgOULmdnNq9ESZysgXwJf3FqFvsQnJ66LDahoaDsjPdzFm/6+o6udfnZezSkjF8u4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c5721db2db224c7104157a211c9bc4d8/bb80d/Gisele5.webp 390w,
+/static/c5721db2db224c7104157a211c9bc4d8/8fabf/Gisele5.webp 780w,
+/static/c5721db2db224c7104157a211c9bc4d8/7661a/Gisele5.webp 1499w&quot;
+          sizes=&quot;(max-width: 1499px) 100vw, 1499px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c5721db2db224c7104157a211c9bc4d8/b3911/Gisele5.png 390w,
+/static/c5721db2db224c7104157a211c9bc4d8/f4d8b/Gisele5.png 780w,
+/static/c5721db2db224c7104157a211c9bc4d8/8bce7/Gisele5.png 1499w&quot;
+          sizes=&quot;(max-width: 1499px) 100vw, 1499px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/c5721db2db224c7104157a211c9bc4d8/8bce7/Gisele5.png&quot;
+          alt=&quot;Stickers and Team&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c5721db2db224c7104157a211c9bc4d8/8bce7/Gisele5.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABi0lEQVQoz32SfW+CMBDG/f5fyiU6Xya+RMXFTBQFW0BNBigFtuTZtQWE6fbHk7ZH78fdc205ewvOYQvX2eHo7pUYO8DjrpZ3rOT7TK1RHCHNc4gsfVDrDrPBjhrGuXOHeOwun9eA2XOgSyAJlDCfLnPmaCA/Ksmq6tLA8AGYlkBObV0uAeJrhJtINJRiQcBxOvuqqhIWnD0VfwasKkwIIj9mXzmSNEEgAZTkHmxsliZZIH0k2MmDu7ex23wgop/L+48VCrTSXG/kKiuUFVjmCtPeEIvBCOZ4iuVoAnMyg/lmKL3PFvC5h+w7V7kNoA6UwJtqbfnah9HuYjUaY/TSxaTdUef50MC808O0MyDPm8CqZZGlDaA0fWVMMO70sVmvsaUWbXtHT8uGvbNgby2yxVPd6O6K/D+BcpIkLgdx4uSdlh8w5a1c41tceZg2hiKeV1hKTlur2FOM0RpGn7+mLOpAOqQFMLkWiTpZQQuxAq6BITIFFP8AsxpQJtIDZwVAgxwNpngY14GiUekPjtOG35y4N7kAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/dcdcbf227ea85fb13ab5f08d838b00e5/bb80d/Gisele2.webp 390w,
+/static/dcdcbf227ea85fb13ab5f08d838b00e5/8fabf/Gisele2.webp 780w,
+/static/dcdcbf227ea85fb13ab5f08d838b00e5/9579c/Gisele2.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/dcdcbf227ea85fb13ab5f08d838b00e5/b3911/Gisele2.png 390w,
+/static/dcdcbf227ea85fb13ab5f08d838b00e5/f4d8b/Gisele2.png 780w,
+/static/dcdcbf227ea85fb13ab5f08d838b00e5/2e9ed/Gisele2.png 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/dcdcbf227ea85fb13ab5f08d838b00e5/2e9ed/Gisele2.png&quot;
+          alt=&quot;Logo&quot;
+          title=&quot;&quot;
+          src=&quot;/static/dcdcbf227ea85fb13ab5f08d838b00e5/2e9ed/Gisele2.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 34.06666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAABwklEQVQozzWRW28SURRG+evGmGh8q77UB43V3tBQDGppKcQMFCkXKaWUymWYS+fMDC1N6QzQQmG5IXEnJ+fysPb69ok8zaccpH5jWA62ZeH3FZ6vMM7rOGYPV9lYl03M5gVW+y+ubTGejHl4mjGZPrCsutUhfVpisZgTmc4e2T84JhZPs/Zmk1a7Td93MM7q2J02vVIJo9lEWYYAWyhZflfnWprfBwG5fJVsrkLyJM9wdE/k5naAcvs8e/6Oz5sJlLqS+xU9sbHEqlsqo9dqeH0X/9pDyR6EAdPJCC1bRjv+w0WzSyyWZhgI0FQO48cxXd1m49M3XM/h7u6aeC6D4Zj4YuYY+qqJ54q5baJ8fxU1lS5gmM7qXCyfk/lVJPIgkYPxiDkzKpUaHzfiZDJ5GhLTE7gpgJ7R4+bGY3Dro9sGtusym8/o6BbRL4eCW4hIn+jXQ4msFMFwSDgKGQx8bAFo2RO2tr/z6vUH1tejJBJpdqM/OUxpVM8aIhDyv+qN9sosKf9wWrsk4raWg+4QylyWcZX8ahgOODrKCSDLzu4PiqUqpkTXtAJ7eym2d5Ns7+yzn8yRL9RYe7vDi5fv2ZK3f0E97YFCfrD7AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/ec89e6c12556bd402f885568b284b363/bb80d/Gisele6.webp 390w,
+/static/ec89e6c12556bd402f885568b284b363/8fabf/Gisele6.webp 780w,
+/static/ec89e6c12556bd402f885568b284b363/9579c/Gisele6.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/ec89e6c12556bd402f885568b284b363/b3911/Gisele6.png 390w,
+/static/ec89e6c12556bd402f885568b284b363/f4d8b/Gisele6.png 780w,
+/static/ec89e6c12556bd402f885568b284b363/2e9ed/Gisele6.png 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/ec89e6c12556bd402f885568b284b363/2e9ed/Gisele6.png&quot;
+          alt=&quot;Break&quot;
+          title=&quot;&quot;
+          src=&quot;/static/ec89e6c12556bd402f885568b284b363/2e9ed/Gisele6.png&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Horøscope]]></title><link>https://juanafranceschini.github.io/personal-website/horoscope/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/horoscope/</guid><pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
@@ -321,222 +572,7 @@
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
-  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[App Masticar]]></title><link>https://juanafranceschini.github.io/personal-website/masticar_digital/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/masticar_digital/</guid><pubDate>Thu, 09 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 20.333333333333332%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3oFB/8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQABBQJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGRABAAIDAAAAAAAAAAAAAAAAAQAQEUFx/9oACAEBAAE/IYGNr2v/2gAMAwEAAgADAAAAEAQP/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8Qh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAAEFAAAAAAAAAAAAAAAAAAAQESExUf/aAAgBAQABPxAn2NOn/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/bb80d/appmasticar-tittle.webp 390w,
-/static/dc46b9d90bd8aaf661c8f9bd0ea90321/8fabf/appmasticar-tittle.webp 780w,
-/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9579c/appmasticar-tittle.webp 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/8f449/appmasticar-tittle.jpg 390w,
-/static/dc46b9d90bd8aaf661c8f9bd0ea90321/3d945/appmasticar-tittle.jpg 780w,
-/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9d81f/appmasticar-tittle.jpg 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-          src=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9d81f/appmasticar-tittle.jpg&quot;
-          alt=&quot;Feria Masticar&quot;
-          title=&quot;&quot;
-          src=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9d81f/appmasticar-tittle.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 101.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAe5DBLsKEtcoD//EABoQAQEAAgMAAAAAAAAAAAAAAAECA0EAEBH/2gAIAQEAAQUC3STwfTeeaoxiRvr/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPwEj/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQIBAT8BY//EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESICEx/9oACAEBAAY/AjZWFaJPuH//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEgITFRYf/aAAgBAQABPyG/U2kAA4ZXaUTFHdwHKBvD/9oADAMBAAIAAwAAABAr8AD/xAAYEQEAAwEAAAAAAAAAAAAAAAABABAhMf/aAAgBAwEBPxAC7Ht//8QAGREAAQUAAAAAAAAAAAAAAAAAEQABECEx/9oACAECAQE/ECFJsn//xAAcEAEBAQEAAgMAAAAAAAAAAAABEQAxECFBUWH/2gAIAQEAAT8QiiVfvGCMbx3Jkpopk98ws6EI5P3GagAbHfPz/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/952204094c2636ca2f04457e0cf3160d/bb80d/appmasticar-1.webp 390w,
-/static/952204094c2636ca2f04457e0cf3160d/8fabf/appmasticar-1.webp 780w,
-/static/952204094c2636ca2f04457e0cf3160d/9579c/appmasticar-1.webp 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/952204094c2636ca2f04457e0cf3160d/8f449/appmasticar-1.jpg 390w,
-/static/952204094c2636ca2f04457e0cf3160d/3d945/appmasticar-1.jpg 780w,
-/static/952204094c2636ca2f04457e0cf3160d/9d81f/appmasticar-1.jpg 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-          src=&quot;/static/952204094c2636ca2f04457e0cf3160d/9d81f/appmasticar-1.jpg&quot;
-          alt=&quot;Feria Masticar&quot;
-          title=&quot;&quot;
-          src=&quot;/static/952204094c2636ca2f04457e0cf3160d/9d81f/appmasticar-1.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 81.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd1SixB//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAERAhIv/aAAgBAQABBQLAldgaUUv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAAREQITH/2gAIAQEABj8CzYPXSI//xAAZEAADAQEBAAAAAAAAAAAAAAAAARExQSH/2gAIAQEAAT8hvs6NV2mNokTbZRKhPQpSIkf/2gAMAwEAAgADAAAAEIDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAwEBAQEAAAAAAAAAAAAAAREhADFBUf/aAAgBAQABPxAASaKswBfqwNgo8ILYwZXDP5umhFvmLlkA3//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/bb80d/appmasticar-2.webp 390w,
-/static/49de85d05bf69a97d249ae12a19d6f87/8fabf/appmasticar-2.webp 780w,
-/static/49de85d05bf69a97d249ae12a19d6f87/9579c/appmasticar-2.webp 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/8f449/appmasticar-2.jpg 390w,
-/static/49de85d05bf69a97d249ae12a19d6f87/3d945/appmasticar-2.jpg 780w,
-/static/49de85d05bf69a97d249ae12a19d6f87/9d81f/appmasticar-2.jpg 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-          src=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/9d81f/appmasticar-2.jpg&quot;
-          alt=&quot;Feria Masticar&quot;
-          title=&quot;&quot;
-          src=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/9d81f/appmasticar-2.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 143.86666666666665%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHs7IorFooP/8QAGhAAAgIDAAAAAAAAAAAAAAAAEBEAARIhQf/aAAgBAQABBQK8nsdF0yoh/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAASEw/9oACAEBAAY/AkKf/8QAGxAAAwEAAwEAAAAAAAAAAAAAAREhABAxQVH/2gAIAQEAAT8hIkh95X1iS4sH7rBLhDx2eNN4Bb//2gAMAwEAAgADAAAAEI/OMP/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAEDAQE/EFj/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPxAI/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARIWExUYH/2gAIAQEAAT8QcKBlkJkApzWFppTK0rXyYVx2YeL5AKqtostqlVUETJ935UR8nKjClvs//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/155a10f5b2f685188710e9aa956d8133/bb80d/appmasticar-3.webp 390w,
-/static/155a10f5b2f685188710e9aa956d8133/8fabf/appmasticar-3.webp 780w,
-/static/155a10f5b2f685188710e9aa956d8133/9579c/appmasticar-3.webp 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/155a10f5b2f685188710e9aa956d8133/8f449/appmasticar-3.jpg 390w,
-/static/155a10f5b2f685188710e9aa956d8133/3d945/appmasticar-3.jpg 780w,
-/static/155a10f5b2f685188710e9aa956d8133/9d81f/appmasticar-3.jpg 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-          src=&quot;/static/155a10f5b2f685188710e9aa956d8133/9d81f/appmasticar-3.jpg&quot;
-          alt=&quot;Feria Masticar&quot;
-          title=&quot;&quot;
-          src=&quot;/static/155a10f5b2f685188710e9aa956d8133/9d81f/appmasticar-3.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 117.53333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe3QKMg2D//EABoQAAICAwAAAAAAAAAAAAAAAAERABAhMUH/2gAIAQEAAQUCeS4HWxXJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAgIDAAAAAAAAAAAAAAAAACEBEBEgUf/aAAgBAQAGPwIU4G65r//EAB4QAQACAQQDAAAAAAAAAAAAAAEAEWEQIUFRMXGh/9oACAEBAAE/IeGFG0slwA3i7CpfnE6F9IFFWuWcu0wPmn//2gAMAwEAAgADAAAAEDMPQP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExUWFxkUH/2gAIAQEAAT8QqvLC5ccxT1TJPwkPlcNteXH640qmmxfW7jGmnRX5kduzYzBQaES9sGlz/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/bb80d/appmasticar-4.webp 390w,
-/static/b0ad2130f93a40dd4e28030633caf35a/8fabf/appmasticar-4.webp 780w,
-/static/b0ad2130f93a40dd4e28030633caf35a/9579c/appmasticar-4.webp 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/8f449/appmasticar-4.jpg 390w,
-/static/b0ad2130f93a40dd4e28030633caf35a/3d945/appmasticar-4.jpg 780w,
-/static/b0ad2130f93a40dd4e28030633caf35a/9d81f/appmasticar-4.jpg 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-          src=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/9d81f/appmasticar-4.jpg&quot;
-          alt=&quot;Feria Masticar&quot;
-          title=&quot;&quot;
-          src=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/9d81f/appmasticar-4.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 173.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAjABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAH1mRnXZauY2aKSs5AoH//EABwQAAIDAQADAAAAAAAAAAAAAAECABESAxATIv/aAAgBAQABBQI9AD7IraHyX2lgVGoQagnRsqDcQ6Xz/8QAFREBAQAAAAAAAAAAAAAAAAAAICH/2gAIAQMBAT8Bi//EABURAQEAAAAAAAAAAAAAAAAAACAh/9oACAECAQE/Aav/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhMVECEiAyQf/aAAgBAQAGPwKYwWGao2wzpN8FBo8KjTJccf/EAB0QAAICAgMBAAAAAAAAAAAAAAERACExYSBRcUH/2gAIAQEAAT8hWRwrXZSqBXK4UMuNQENfcAKADyI1sn6IREsAHV5EZYPU2yShukNbl4Qr4f/aAAwDAQACAAMAAAAQxPDxAA//xAAYEQEBAQEBAAAAAAAAAAAAAAABEQAhEP/aAAgBAwEBPxBniZl5nDS+/wD/xAAZEQACAwEAAAAAAAAAAAAAAAABMQARICH/2gAIAQIBAT8QFkYF3P8A/8QAIBABAQACAQMFAAAAAAAAAAAAAREAIVFBYXEgMYGhwf/aAAgBAQABPxCqiQO+c648/XCWAIlwqyxel4uHv4ij+Xjvk/W2csTxFCgX6wZFTVdzG7wGMpJH71gyEsbWOcaFdEPR/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/a9e84d453cb09ecd2894c4365541d784/bb80d/appmasticar-5.webp 390w,
-/static/a9e84d453cb09ecd2894c4365541d784/8fabf/appmasticar-5.webp 780w,
-/static/a9e84d453cb09ecd2894c4365541d784/9579c/appmasticar-5.webp 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/a9e84d453cb09ecd2894c4365541d784/8f449/appmasticar-5.jpg 390w,
-/static/a9e84d453cb09ecd2894c4365541d784/3d945/appmasticar-5.jpg 780w,
-/static/a9e84d453cb09ecd2894c4365541d784/9d81f/appmasticar-5.jpg 1500w&quot;
-          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-          src=&quot;/static/a9e84d453cb09ecd2894c4365541d784/9d81f/appmasticar-5.jpg&quot;
-          alt=&quot;Feria Masticar&quot;
-          title=&quot;&quot;
-          src=&quot;/static/a9e84d453cb09ecd2894c4365541d784/9d81f/appmasticar-5.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Slow Sex]]></title><link>https://juanafranceschini.github.io/personal-website/slow_sex/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/slow_sex/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Slow Sex]]></title><link>https://juanafranceschini.github.io/personal-website/slow_sex/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/slow_sex/</guid><pubDate>Thu, 09 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
@@ -819,6 +855,221 @@
           alt=&quot;Slow Sex&quot;
           title=&quot;&quot;
           src=&quot;/static/599a81f7a07260cedfeee8cdd1274dea/9d81f/slow-sex-8.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[App Masticar]]></title><link>https://juanafranceschini.github.io/personal-website/masticar_digital/</link><guid isPermaLink="false">https://juanafranceschini.github.io/personal-website/masticar_digital/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 20.333333333333332%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3oFB/8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQABBQJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGRABAAIDAAAAAAAAAAAAAAAAAQAQEUFx/9oACAEBAAE/IYGNr2v/2gAMAwEAAgADAAAAEAQP/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8Qh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAAEFAAAAAAAAAAAAAAAAAAAQESExUf/aAAgBAQABPxAn2NOn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/bb80d/appmasticar-tittle.webp 390w,
+/static/dc46b9d90bd8aaf661c8f9bd0ea90321/8fabf/appmasticar-tittle.webp 780w,
+/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9579c/appmasticar-tittle.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/8f449/appmasticar-tittle.jpg 390w,
+/static/dc46b9d90bd8aaf661c8f9bd0ea90321/3d945/appmasticar-tittle.jpg 780w,
+/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9d81f/appmasticar-tittle.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9d81f/appmasticar-tittle.jpg&quot;
+          alt=&quot;Feria Masticar&quot;
+          title=&quot;&quot;
+          src=&quot;/static/dc46b9d90bd8aaf661c8f9bd0ea90321/9d81f/appmasticar-tittle.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 101.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAECAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAe5DBLsKEtcoD//EABoQAQEAAgMAAAAAAAAAAAAAAAECA0EAEBH/2gAIAQEAAQUC3STwfTeeaoxiRvr/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPwEj/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQIBAT8BY//EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESICEx/9oACAEBAAY/AjZWFaJPuH//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEgITFRYf/aAAgBAQABPyG/U2kAA4ZXaUTFHdwHKBvD/9oADAMBAAIAAwAAABAr8AD/xAAYEQEAAwEAAAAAAAAAAAAAAAABABAhMf/aAAgBAwEBPxAC7Ht//8QAGREAAQUAAAAAAAAAAAAAAAAAEQABECEx/9oACAECAQE/ECFJsn//xAAcEAEBAQEAAgMAAAAAAAAAAAABEQAxECFBUWH/2gAIAQEAAT8QiiVfvGCMbx3Jkpopk98ws6EI5P3GagAbHfPz/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/952204094c2636ca2f04457e0cf3160d/bb80d/appmasticar-1.webp 390w,
+/static/952204094c2636ca2f04457e0cf3160d/8fabf/appmasticar-1.webp 780w,
+/static/952204094c2636ca2f04457e0cf3160d/9579c/appmasticar-1.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/952204094c2636ca2f04457e0cf3160d/8f449/appmasticar-1.jpg 390w,
+/static/952204094c2636ca2f04457e0cf3160d/3d945/appmasticar-1.jpg 780w,
+/static/952204094c2636ca2f04457e0cf3160d/9d81f/appmasticar-1.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/952204094c2636ca2f04457e0cf3160d/9d81f/appmasticar-1.jpg&quot;
+          alt=&quot;Feria Masticar&quot;
+          title=&quot;&quot;
+          src=&quot;/static/952204094c2636ca2f04457e0cf3160d/9d81f/appmasticar-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd1SixB//8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIAERAhIv/aAAgBAQABBQLAldgaUUv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAAREQITH/2gAIAQEABj8CzYPXSI//xAAZEAADAQEBAAAAAAAAAAAAAAAAARExQSH/2gAIAQEAAT8hvs6NV2mNokTbZRKhPQpSIkf/2gAMAwEAAgADAAAAEIDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAwEBAQEAAAAAAAAAAAAAAREhADFBUf/aAAgBAQABPxAASaKswBfqwNgo8ILYwZXDP5umhFvmLlkA3//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/bb80d/appmasticar-2.webp 390w,
+/static/49de85d05bf69a97d249ae12a19d6f87/8fabf/appmasticar-2.webp 780w,
+/static/49de85d05bf69a97d249ae12a19d6f87/9579c/appmasticar-2.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/8f449/appmasticar-2.jpg 390w,
+/static/49de85d05bf69a97d249ae12a19d6f87/3d945/appmasticar-2.jpg 780w,
+/static/49de85d05bf69a97d249ae12a19d6f87/9d81f/appmasticar-2.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/9d81f/appmasticar-2.jpg&quot;
+          alt=&quot;Feria Masticar&quot;
+          title=&quot;&quot;
+          src=&quot;/static/49de85d05bf69a97d249ae12a19d6f87/9d81f/appmasticar-2.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 143.86666666666665%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHs7IorFooP/8QAGhAAAgIDAAAAAAAAAAAAAAAAEBEAARIhQf/aAAgBAQABBQK8nsdF0yoh/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAASEw/9oACAEBAAY/AkKf/8QAGxAAAwEAAwEAAAAAAAAAAAAAAREhABAxQVH/2gAIAQEAAT8hIkh95X1iS4sH7rBLhDx2eNN4Bb//2gAMAwEAAgADAAAAEI/OMP/EABURAQEAAAAAAAAAAAAAAAAAAAEg/9oACAEDAQE/EFj/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAgEBPxAI/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARIWExUYH/2gAIAQEAAT8QcKBlkJkApzWFppTK0rXyYVx2YeL5AKqtostqlVUETJ935UR8nKjClvs//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/155a10f5b2f685188710e9aa956d8133/bb80d/appmasticar-3.webp 390w,
+/static/155a10f5b2f685188710e9aa956d8133/8fabf/appmasticar-3.webp 780w,
+/static/155a10f5b2f685188710e9aa956d8133/9579c/appmasticar-3.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/155a10f5b2f685188710e9aa956d8133/8f449/appmasticar-3.jpg 390w,
+/static/155a10f5b2f685188710e9aa956d8133/3d945/appmasticar-3.jpg 780w,
+/static/155a10f5b2f685188710e9aa956d8133/9d81f/appmasticar-3.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/155a10f5b2f685188710e9aa956d8133/9d81f/appmasticar-3.jpg&quot;
+          alt=&quot;Feria Masticar&quot;
+          title=&quot;&quot;
+          src=&quot;/static/155a10f5b2f685188710e9aa956d8133/9d81f/appmasticar-3.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 117.53333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe3QKMg2D//EABoQAAICAwAAAAAAAAAAAAAAAAERABAhMUH/2gAIAQEAAQUCeS4HWxXJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAgIDAAAAAAAAAAAAAAAAACEBEBEgUf/aAAgBAQAGPwIU4G65r//EAB4QAQACAQQDAAAAAAAAAAAAAAEAEWEQIUFRMXGh/9oACAEBAAE/IeGFG0slwA3i7CpfnE6F9IFFWuWcu0wPmn//2gAMAwEAAgADAAAAEDMPQP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExUWFxkUH/2gAIAQEAAT8QqvLC5ccxT1TJPwkPlcNteXH640qmmxfW7jGmnRX5kduzYzBQaES9sGlz/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/bb80d/appmasticar-4.webp 390w,
+/static/b0ad2130f93a40dd4e28030633caf35a/8fabf/appmasticar-4.webp 780w,
+/static/b0ad2130f93a40dd4e28030633caf35a/9579c/appmasticar-4.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/8f449/appmasticar-4.jpg 390w,
+/static/b0ad2130f93a40dd4e28030633caf35a/3d945/appmasticar-4.jpg 780w,
+/static/b0ad2130f93a40dd4e28030633caf35a/9d81f/appmasticar-4.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/9d81f/appmasticar-4.jpg&quot;
+          alt=&quot;Feria Masticar&quot;
+          title=&quot;&quot;
+          src=&quot;/static/b0ad2130f93a40dd4e28030633caf35a/9d81f/appmasticar-4.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 4vw 0; max-width: 1500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 173.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAjABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAH1mRnXZauY2aKSs5AoH//EABwQAAIDAQADAAAAAAAAAAAAAAECABESAxATIv/aAAgBAQABBQI9AD7IraHyX2lgVGoQagnRsqDcQ6Xz/8QAFREBAQAAAAAAAAAAAAAAAAAAICH/2gAIAQMBAT8Bi//EABURAQEAAAAAAAAAAAAAAAAAACAh/9oACAECAQE/Aav/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhMVECEiAyQf/aAAgBAQAGPwKYwWGao2wzpN8FBo8KjTJccf/EAB0QAAICAgMBAAAAAAAAAAAAAAERACExYSBRcUH/2gAIAQEAAT8hWRwrXZSqBXK4UMuNQENfcAKADyI1sn6IREsAHV5EZYPU2yShukNbl4Qr4f/aAAwDAQACAAMAAAAQxPDxAA//xAAYEQEBAQEBAAAAAAAAAAAAAAABEQAhEP/aAAgBAwEBPxBniZl5nDS+/wD/xAAZEQACAwEAAAAAAAAAAAAAAAABMQARICH/2gAIAQIBAT8QFkYF3P8A/8QAIBABAQACAQMFAAAAAAAAAAAAAREAIVFBYXEgMYGhwf/aAAgBAQABPxCqiQO+c648/XCWAIlwqyxel4uHv4ij+Xjvk/W2csTxFCgX6wZFTVdzG7wGMpJH71gyEsbWOcaFdEPR/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a9e84d453cb09ecd2894c4365541d784/bb80d/appmasticar-5.webp 390w,
+/static/a9e84d453cb09ecd2894c4365541d784/8fabf/appmasticar-5.webp 780w,
+/static/a9e84d453cb09ecd2894c4365541d784/9579c/appmasticar-5.webp 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a9e84d453cb09ecd2894c4365541d784/8f449/appmasticar-5.jpg 390w,
+/static/a9e84d453cb09ecd2894c4365541d784/3d945/appmasticar-5.jpg 780w,
+/static/a9e84d453cb09ecd2894c4365541d784/9d81f/appmasticar-5.jpg 1500w&quot;
+          sizes=&quot;(max-width: 1500px) 100vw, 1500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+          src=&quot;/static/a9e84d453cb09ecd2894c4365541d784/9d81f/appmasticar-5.jpg&quot;
+          alt=&quot;Feria Masticar&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a9e84d453cb09ecd2894c4365541d784/9d81f/appmasticar-5.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
