@@ -1,7 +1,7 @@
 ---
 title: App Masticar
 description: UX/UI
-date: "2019-05-09"
+date: "2019-05-08"
 thumbnail: ./appmasticar-thumbnail.jpg
 ---
 
